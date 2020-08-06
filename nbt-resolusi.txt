@@ -2,3 +2,5 @@ Resolusi saya
 - Memahami dasar front-end 
 - javascript, html, dan css
 - Memahami Framework
+- Ingin mencoba membuat website sendiri
+- Coding rapi dengan SOLID
