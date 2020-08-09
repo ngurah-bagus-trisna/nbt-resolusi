@@ -3,4 +3,4 @@ ISI WEBSITE SAYA
 - About me
 - Perjalanan coding
 - Tentang Server
-- dll
+- Menjelaskan bagaimana latar belakang website
